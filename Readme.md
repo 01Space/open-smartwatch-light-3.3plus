@@ -1,3 +1,5 @@
+open-smartwatch-light-3.3plus
+
 # HowTo Run
 
 **Please read the documentation on the [website](https://open-smartwatch.github.io/4_flashing/)!**
